@@ -1,12 +1,14 @@
 ﻿# Calculadora
 
-# Sobre o projeto
+## Sobre o projeto
 
 Calculadora usando React Native 
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
-
-## Técnologias utilizadas nos projetos
+## Técnologias utilizadas no projeto
 - JavaScript
 - React Native
+
+## Layout mobile
+![Mobile 1](https://github.com/Joaovictormartin/Assets_Geral/blob/main/Calculadora/Tela%20Principal.png) ![Mobile 2](https://github.com/Joaovictormartin/Assets_Geral/blob/main/Calculadora/Tela%20de%20resultado.png)
+
+
